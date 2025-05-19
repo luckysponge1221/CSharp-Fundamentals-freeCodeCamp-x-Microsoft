@@ -1,3 +1,11 @@
+/*
+CHALLENGE:
+Develop the following features of the Contoso Pets application:
+- A feature that ensures animal ages and physical descriptions are complete.
+- A feature that ensures animal nickname and personality descriptions are complete.
+
+*/
+
 using System;
 using System.IO;
 
