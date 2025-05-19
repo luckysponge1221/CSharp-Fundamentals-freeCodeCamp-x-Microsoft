@@ -17,7 +17,14 @@ This C# console application is designed to:
     Andrew:         89.6    B+
     Emma:           85.6    B
     Logan:          91.2    A-
+
+CHALLENGE: 
+Update grading report specification to:
+- Update the iteration and selection code to calculate separate final scores for exams, extra credit assignments, and the overall grade.
+- Update the code that writes the grading report to the console.
+
 */
+
 int examAssignments = 5;
 
 string[] studentNames = new string[] { "Sophia", "Andrew", "Emma", "Logan" };
