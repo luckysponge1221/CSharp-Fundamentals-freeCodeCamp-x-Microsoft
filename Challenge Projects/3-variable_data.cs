@@ -1,3 +1,11 @@
+/*
+CHALLENGE:
+Update Contoso Pets application:
+- Develop multi-term search functionality for the "dogs" search
+- Update the "search status" animation, information and countdown
+
+*/
+
 using System;
 
 // ourAnimals array will store the following: 
